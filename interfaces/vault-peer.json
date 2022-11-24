@@ -1,0 +1,7 @@
+{
+  "id": "vault-peer",
+  "name": "vault-peer",
+  "repo": "https://github.com/rodrigogansobarbieri/charm-interface-vault-peer.git",
+  "docs": "https://github.com/openstack/charm-interface-vault-peer/blob/master/README.md",
+  "summary": "Vault peer interface"
+}
